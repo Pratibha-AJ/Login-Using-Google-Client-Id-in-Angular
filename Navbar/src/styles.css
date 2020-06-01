@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+
+.headerlist {
+  height: 100%;
+  list-style: none;
+  margin-bottom: 0px;
+  margin-left: 70%;
+}
+
+.example-card {
+  margin:auto;
+  margin-top: 100px ;
+  width: 30%;
+  height:50%;
+}
+.logindialog {
+  padding-left: 70%
+}
+  body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
